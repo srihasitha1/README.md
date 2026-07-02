@@ -1,7 +1,7 @@
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  BANNER  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
-<img src="IMG_2251.JPG" width="100%"/>
+<img src="download.jpg" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=99999&color=935073&center=true&vCenter=true&width=600&lines=Srihasitha+Pinnamaraju+%E2%80%94+srihasitha1" alt="name" />
 
@@ -28,9 +28,7 @@
 
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ABOUT  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
-<div align="center">
-  <img src="about.svg" width="100%"/>
-</div>
+
 
 <br/>
 
@@ -48,7 +46,7 @@
 
 <!-- ░░░░░░░░░░░░░░░░░░░  SKILL ICONS  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
-## ⚡ Tech Stack
+## Tech Stack
 
 **Languages & Runtimes**
 
