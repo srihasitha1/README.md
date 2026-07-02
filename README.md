@@ -153,4 +153,3 @@
 
 </div>
 
-<img src="IMG_2252-EDIT.jpg" width="100%"/>
